@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+
+langchain
+langchain-community
+langchain-cohere
+cohere
+
+chromadb
+
+pypdf
+python-multipart
+
+python-dotenv
+pydantic
+sqlite-utils

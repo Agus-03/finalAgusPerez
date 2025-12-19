@@ -1,0 +1,7 @@
+.venv/
+
+.qodo/
+
+/data/processed/
+
+__pycache__/
